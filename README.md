@@ -25,3 +25,12 @@ An application of  Naive Bayes, for text classification Where everything explain
 5) Making our function for train and predict 
 6) Classifying a text given by the user
 7) Confusion matrix for the performance of the model
+#### Project 4. Housing Price prediction:
+A regression problem for which Linear Regression, Decision Tree Regressor, Random forest Regressor, Support Vector Regressor are applied and best one is selected.
+Concepts covered:
+1) pd.get_dummies --> for easy implementation of  one hot encoding
+2) Imputation
+2) Few interesting data visualization and physical interpretation
+3) Standard Scalar
+4) Cross validation score
+5) Grid Search and Randomized Grid Search for fine tuning the model
