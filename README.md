@@ -17,7 +17,7 @@ A regression problem where we have to predict the loan amount based on 20 featur
 5) Checking and removal of Multicollinearity using VIF technique
 6) Modelling and accuracy testing 
 #### Project 3. Naive Bayes for Text Classification:
-An application of  Naive Bayes, for text classification Where everything explained from scratch accompanied with a slide for an explanation of equations and compared with the sckit-learn result. Concept covered:
+An application of  Naive Bayes, for text classification Where everything explained from scratch accompanied with a slide(Text Classification Naive Bayes.pptx) for an explanation of equations and compared with the sckit-learn result. Concept covered:
 1) Removing stopwords
 2) Building a vocabulary of words
 3) Frequency calculation of words
