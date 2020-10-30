@@ -1,7 +1,7 @@
 ### Machine Learning Projects Based on Real DataSets
 
 #### These are a few deliberately & specially selected projects which involve a lot of unique concepts, Feature engineering, rather than just train, fit, and test on simple data set.
-#### Project 1. Credit Card Fraud Detection :
+#### Project 1. Credit Card Fraud Detection (Imbalanced Classification):
 An example of imbalance classification and involves almost all the concepts required for handling imbalanced data. Concepts covered:
 1) Scaling the data.
 2) Suitable performance metric for testing the accuracy of imbalanced data. --> Confusion Matrix, Precision, Recall, ROC, AUC
